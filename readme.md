@@ -1,6 +1,6 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=18F776&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+GitHub;Please+leave+a+star+if+you+like%F0%9F%98%84)](https://git.io/typing-svg)👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=18F776&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+GitHub;Please+leave+a+star+if+you+like%F0%9F%98%84)](https://git.io/typing-svg)
 
-[`<img src="https://raw.githubusercontent.com/knight1972001/knight1972001/main/intro.gif" alt="👋 Hi there!" title="👋 Hi there!"/>`](https://longnguyen-vhoang.vercel.app/)
+[<img src="https://raw.githubusercontent.com/knight1972001/knight1972001/main/intro.gif" alt="👋 Hi there!" title="👋 Hi there!"/>](https://longnguyen-vhoang.vercel.app/)
 
 <!--
 **knight1972001/knight1972001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
