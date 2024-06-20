@@ -1,3 +1,5 @@
+  <!-- Using documentation from https://github.com/anuraghazra/github-readme-stats -->
+
 <p align="center">
     <img
       src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=18F776&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+GitHub+%F0%9F%91%8B;Please+leave+a+star+if+you+like%F0%9F%98%84"
@@ -96,27 +98,30 @@
 
 </details>
 
-<details>
+<details open>
+
   <summary><h2>📊 My Github Stat</h2></summary>
 
-<!-- ![Github Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=knight1972001&exclude_repo=knight1972001,JavisResume&hide=html&langs_count=8&custom_title=My%20Most%20Used%20Language&theme=synthwave) -->
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=knight1972001&exclude_repo=knight1972001,JavisResume&hide=html&langs_count=8&custom_title=My%20Most%20Used%20Language&theme=synthwave" alt="Click here to my portfolio" title="Click here to my portfolio" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=knight1972001&exclude_repo=knight1972001,JavisResume&hide=html&langs_count=7&custom_title=My%20Most%20Used%20Language&theme=synthwave&bg_color=40,261F2D,6D577D&title_color=FABD2F&text_color=DADADA" alt="Click here to my portfolio" title="Click here to my portfolio" align="right" />
 
 ![Github Stat](https://github-readme-stats.vercel.app/api?username=knight1972001&show_icons=true&bg_color=40,002B2B,1F1F1F&title_color=FABD2F&text_color=8EC07C&icon_color=FE8019&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 </details>
-<!--
-**knight1972001/knight1972001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<details open> 
+  <summary><h2>📘 My Top Projects</h2></summary>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  -->
+  <p align="left">
+    <a href="https://github.com/knight1972001/crypto-auto-trade"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=knight1972001&repo=crypto-auto-trade&theme=material-palenight&border_radius=10&hide_border=true" alt="crypto-auto-trade" title="crypto auto trade project"></a>
+    <a href="https://github.com/knight1972001/portfolio"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=knight1972001&repo=portfolio&theme=material-palenight&border_radius=10&hide_border=true" alt="My Portfolio" title="My Portfolio"></a>
+    <a href="https://github.com/knight1972001/JavisResume"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=knight1972001&repo=JavisResume&theme=material-palenight&border_radius=10&hide_border=true" alt="Javis Resume Advisor" title="Javis Resume Advisor"></a>
+    <a href="https://github.com/knight1972001/rock-paper-scissor"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=knight1972001&repo=rock-paper-scissor&theme=material-palenight&border_radius=10&hide_border=true" alt="OpenCV Project" title="OpenCV Project"></a>
+    <a href="https://github.com/knight1972001/Jarvis_GPT_Local"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=knight1972001&repo=Jarvis_GPT_Local&theme=material-palenight&border_radius=10&hide_border=true" alt="Jarvis GPT Local" title="Jarvis GPT Local"></a>
+    <a href="https://github.com/knight1972001/TheScoreApp_Test"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=knight1972001&repo=TheScoreApp_Test&theme=material-palenight&border_radius=10&hide_border=true" alt="Android Smoke Test" title="Android Smoke Test"></a>
+    <a href="https://github.com/knight1972001/fragments"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=knight1972001&repo=fragments&theme=material-palenight&border_radius=10&hide_border=true" alt="Upload fragments online storage" title="Upload fragments online storage"></a>
+    <a href="https://github.com/knight1972001/AI_Chatbot_PRJ666"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=knight1972001&repo=AI_Chatbot_PRJ666&theme=material-palenight&border_radius=10&hide_border=true" alt="AI Chatbot PyTorch" title="AI Chatbot PyTorch"></a>
+  </p>
+
+<a href="https://github.com/knight1972001?tab=repositories"><img alt="Static Badge" src="https://img.shields.io/badge/Visit%20my%20Portfolio-gray?style=for-the-badge"></a>
+
+</details>
