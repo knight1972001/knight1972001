@@ -99,17 +99,11 @@
 <details>
   <summary><h2>📊 My Github Stat</h2></summary>
 
-  <p align="right">
+<!-- ![Github Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=knight1972001&exclude_repo=knight1972001,JavisResume&hide=html&langs_count=8&custom_title=My%20Most%20Used%20Language&theme=synthwave) -->
 
-![Github Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=knight1972001&exclude_repo=knight1972001,JavisResume&hide=html&langs_count=8&custom_title=My%20Most%20Used%20Language&theme=synthwave)
-
-  </p>
-
-  <p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=knight1972001&exclude_repo=knight1972001,JavisResume&hide=html&langs_count=8&custom_title=My%20Most%20Used%20Language&theme=synthwave" alt="Click here to my portfolio" title="Click here to my portfolio" align="right" />
 
 ![Github Stat](https://github-readme-stats.vercel.app/api?username=knight1972001&show_icons=true&bg_color=40,002B2B,1F1F1F&title_color=FABD2F&text_color=8EC07C&icon_color=FE8019&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-
-  </p>
 
 </details>
 <!--
