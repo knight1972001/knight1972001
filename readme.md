@@ -106,6 +106,12 @@
 
 ![Github Stat](https://github-readme-stats.vercel.app/api?username=knight1972001&show_icons=true&bg_color=40,002B2B,1F1F1F&title_color=FABD2F&text_color=8EC07C&icon_color=FE8019&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
+  <h3>⚡ Recent GitHub Activity</h3>
+  <!-- https://github.com/jamesgeorge007/github-activity-readme --> 
+  <!--START_SECTION:activity-->
+
+  <!--END_SECTION:activity-->
+
 </details>
 
 <details open> 
